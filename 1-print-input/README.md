@@ -4,8 +4,8 @@ The print() function is used to print text or some data to the console.
 Простой вывод строки.  
 Simple string output.
 # print("Hello word!") 
-Эта строка кода вызывает функцию print(), которая выводит строку "Hello word!" в консоль.   
-This line of code calls the print() function, which prints the string “Hello word!” to the console. 
+Описание: Эта строка кода вызывает функцию print(), которая выводит строку "Hello word!" в консоль.   
+Description: This line of code calls the print() function, which prints the string “Hello word!” to the console. 
 
 
 Вывод нескольких строк с разделением пробелами.  
@@ -48,8 +48,8 @@ Receiving data from the user.
 Description: Outputs the text “Please enter something” stops code execution and waits for the user to enter something from the keyboard and press Enter.
 
 # name = input("Enter your name")
-Выводит "Enter your name", принимает введенные данные и сохраняет их в переменную name.  
-Outputs “Enter your name”, accepts the input and saves it to the name variable.
+Описание: Выводит "Enter your name", принимает введенные данные и сохраняет их в переменную name.  
+Description: Outputs “Enter your name”, accepts the input and saves it to the name variable.
 # print(name)
-Ожидает ввод И приглашением к вводу будет значение переменной name (то, что пользователь ввел раньше).  
-Waits for input and the prompt for input will be the value of the name variable (what the user entered earlier).
+Описание: Ожидает ввод И приглашением к вводу будет значение переменной name (то, что пользователь ввел раньше).  
+Description: Waits for input and the prompt for input will be the value of the name variable (what the user entered earlier).
