@@ -1,7 +1,8 @@
 Основные операции с числами.  
-Basic operations with numbers. 
+Basic operations with numbers.  
+
 Сложение.  
-Addition. 
+Addition.   
 # x = 10
 # y = 5
 # summary = x + y
