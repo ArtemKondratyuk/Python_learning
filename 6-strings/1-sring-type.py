@@ -46,4 +46,73 @@
 # print(type(my_string))       # Enter a nubmer: 10 <class 'str'>
 
 
-                               
+# my_string = int(input("Enter a nubmer: "))
+# print(type(my_string))      # Enter a nubmer: 10 <class 'str'>
+
+
+# big_integer = 2 ** 1000
+# print(len(str(big_integer)))       # 302
+
+
+# my_string = "Hello world"
+# print("Hello" in my_string)    # True
+
+# my_string = "Hello world"
+# print("hello" in my_string)    # False
+
+
+# my_string = "Alice"
+# print(my_string.upper())      # ALICE
+
+# my_string = "ALICE"
+# print(my_string.lower())     #  alice
+
+
+# my_string = "       Hello world         " 
+# print(len(my_string))                  # 27
+# print(len(my_string.strip()))          # 11
+       
+
+# my_string = "Hello, world"
+# print(my_string.replace("world", "Python"))    #  Hello, Python
+
+
+# my_string = "Hello world"
+# print(my_string.count("l"))     # 3
+
+# my_string = "Hello world"
+# print(my_string.count("z"))     # 0
+
+
+# my_string = "10"
+# print(my_string.isdigit())    # True
+
+# my_string = "10x"
+# print(my_string.isdigit())    # False
+
+
+# integer = input("Enter a number: ")
+# if integer.isdigit():
+#     integer = int(integer)
+# print(type(integer))            # Enter a number: 10  <class 'int'>  or  Enter a number: x  <class 'str'> 
+
+
+# name = "Alise"
+# age = 25
+# print(f"Hello, my name is {name} and I'm {age} years old")     # Hello, my name is Alise and I'm 25 years old
+
+# x = 10
+# y = 5
+# print(f"summary {x + y}, multiplication is {x * y} ")   # summary 15, multiplication is 50 
+
+
+# my_string = input("Enter a number: ")
+# if my_string.isdigit():
+#     my_integer = int(my_string)
+#     print(my_integer)
+# else:
+#     print(f"{my_string} is not a number")     # Enter a number: 10  10   or   Enter a number: xpf  xpf is not a number
+
+
+
+
