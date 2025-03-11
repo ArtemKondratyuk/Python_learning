@@ -14,6 +14,7 @@
 # and then outputs a message using the format() method in this form:
 # Hi, my name is Alex! I am 30 years old and I live in Kiev.
 
+
 # name = "Alex"
 # age = 30
 # city = "Kiev"
@@ -29,10 +30,11 @@
 # and average, and then outputs the result using the format() method in this form:
 # You entered the numbers: 5, 10, 15. Their sum is 30 and the average is 10.0
 
-a = int(input("Enter a number: "))
-b = int(input("Enter a number: "))
-c = int(input("Enter a number: "))
-summa = a + b + c
-average = summa / 3
-print(f"You entered the numbers: {a}, {b}, {c}. Their sum is {summa} and the average is {average:.1f}")
-5
+# a = int(input("Enter a number: "))
+# b = int(input("Enter a number: "))
+# c = int(input("Enter a number: "))
+# summa = a + b + c
+# average = summa / 3
+# print(f"You entered the numbers: {a}, {b}, {c}. Their sum is {summa} and the average is {average:.1f}")
+
+# output: You entered the numbers: 5, 10, 15. Their sum is 30 and the average is 10.0
