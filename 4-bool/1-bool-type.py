@@ -1,7 +1,7 @@
-# is_tudent = True
+# is_student = True
 # is_graduated = False
 
-# print(is_tudent)      # output: True 
+# print(is_student)      # output: True 
 # print(is_graduated)   # output: False
 
 # x = 10
